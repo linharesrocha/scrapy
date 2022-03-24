@@ -1,0 +1,13 @@
+setup.py
+mercadolivre/__init__.py
+mercadolivre/items.py
+mercadolivre/middlewares.py
+mercadolivre/pipelines.py
+mercadolivre/settings.py
+mercadolivre/spiders/__init__.py
+mercadolivre/spiders/ml.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
